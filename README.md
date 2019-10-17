@@ -20,8 +20,11 @@ To keep it simple, we initial are expecting it to use the idea in the ping pong 
 
 After training the algorithm on the ping pong game environment for a week there was a change in the behavior of the Academic AI (on right side) when allowed to play with the Consumer AI (on left). Though the results were not inhabitable to my use case, there was improvement.
 
+![](https://github.com/sannzay/TRAINit/blob/master/Images/t.1.png)
+
 
 ### 2. Ping Pong using Policy Gradient:
 
-After training for almost 90 hours it achieved a notable result. The Academic AI beat Consumer AI by 5 scores when the total score to win an episode was 20. Green bat is our Academic AI which learns. Orange is Consumer AI which acts according to the heuristics it is designed with.
+After training for almost 90 hours it achieved a notable result. The Academic AI beat Consumer AI by 5 scores when the total score to win an episode was 20. Green bat is the Academic AI which learns. Orange is Consumer AI which acts according to the heuristics it is designed with.
 
+![](https://github.com/sannzay/TRAINit/blob/master/Images/t.2.jpg)
